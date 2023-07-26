@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "rtsvideo.h": "c",
+        "rtscamkit.h": "c",
+        "rtsavapi.h": "c",
+        "rtsavdef.h": "c"
+    }
+}
